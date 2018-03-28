@@ -1,0 +1,68 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "8a82c1e8e2dd5fcf2d8915fa836639546efd0a4d5ae6052de2f26515b655cb52"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "0",
+            "os_name": "nt",
+            "platform_machine": "AMD64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "7",
+            "platform_system": "Windows",
+            "platform_version": "6.1.7601",
+            "python_full_version": "2.7.2",
+            "python_version": "2.7",
+            "sys_platform": "win32"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "2.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {},
+    "develop": {
+        "attrs": {
+            "hashes": [],
+            "version": "==17.4.0"
+        },
+        "colorama": {
+            "hashes": [],
+            "markers": "sys_platform == 'win32'",
+            "version": "==0.3.9"
+        },
+        "funcsigs": {
+            "hashes": [],
+            "markers": "python_version < '3.0'",
+            "version": "==1.0.2"
+        },
+        "more-itertools": {
+            "hashes": [],
+            "version": "==4.1.0"
+        },
+        "pluggy": {
+            "hashes": [],
+            "version": "==0.6.0"
+        },
+        "py": {
+            "hashes": [],
+            "version": "==1.5.3"
+        },
+        "pytest": {
+            "hashes": [],
+            "version": "==3.5.0"
+        },
+        "six": {
+            "hashes": [],
+            "version": "==1.11.0"
+        }
+    }
+}
