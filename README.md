@@ -9,5 +9,14 @@ This project provide a pretty simple .c based executable that can change its 'co
    * produce desired stdout
    * produce desired return code
    * store command line options to file
-   
+
+Executable is a single .c file that is 'sensible' to special environment variables. It is provided with simple cmake file so pretty easy to build with:
+
+```
+mkdir BUILD
+cd BUILD
+cmake ..
+make
+```
+
 Python package is provided to manage this executable and all its functionalities.
